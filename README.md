@@ -19,16 +19,13 @@
 
 [read01](https://sjaljawhary.github.io/reading-notes/read01)
 
-
 [read02](https://sjaljawhary.github.io/reading-notes/read02)
-
-
 
 
 | read number  	|the link      	|
 |---	|---	|
-|[read01]   	| (https://sjaljawhary.github.io/reading-notes/read01)  	|
-|  [read02] 	|  (https://sjaljawhary.github.io/reading-notes/read02) 	|
+|[read01]   	| https://sjaljawhary.github.io/reading-notes/read01  	|
+|  [read02] 	|  https://sjaljawhary.github.io/reading-notes/read02 	|
 
 
 
