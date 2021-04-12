@@ -12,7 +12,7 @@
 3.criticism.
 4.success of others.
 
-**No_pain_,no gain**
+~~No pain, no gain~~
 
 ***Work hard,achieve more***
 
