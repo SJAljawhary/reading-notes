@@ -1,7 +1,7 @@
 # reading-notes
 We will talk about two control systems :
-1. **Markdown**. 
-2. **GIT** .
+  1. **Markdown**. 
+  2. **GIT** .
 
 look at this table and follow the links to know more about them :
 
