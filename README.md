@@ -2,8 +2,20 @@
 We will talk about two control systems :
   1. **Markdown**. 
   2. **GIT** .
+  3. **Design a website using HTML**.
+  Follow the links in the table bellow .
+  
 
-look at this table and follow the links to know more about them :
+  know lets talk about the **Fixed mindset** and the **Growth mindset** .
+
+![mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+
+**“fixed mindset”** assumes that our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way.
+
+**“growth mindset”** on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
+
+
+ ### The Table contains the links we talked about above :
 
 
 
@@ -15,6 +27,7 @@ look at this table and follow the links to know more about them :
 |---	|---	|
 |[read01]   	|  [read01](https://sjaljawhary.github.io/reading-notes/read01) 	|
 |  [read02] 	|  [read02](https://sjaljawhary.github.io/reading-notes/read02) 	|
+|    [read03]         |    [read03](https://sjaljawhary.github.io/reading-notes/read03)                                   |
 
 
 
