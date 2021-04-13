@@ -1,25 +1,14 @@
 # reading-notes
-#######More creativity and possibility 
+We will talk about two control systems :
+1. **Markdown**. 
+2. **GIT** .
 
-# Good starting points:
--Effort
--intelligence
--talent
-
-# The differences between fixed mindset and growth mindset can be diticted by comparing these issues :
-1.challenges.
-2.effort.
-3.criticism.
-4.success of others.
-
-~~No pain, no gain~~
-
-***Work hard,achieve more***
+look at this table and follow the links to know more about them :
 
 
-[read01](https://sjaljawhary.github.io/reading-notes/read01)
 
-[read02](https://sjaljawhary.github.io/reading-notes/read02)
+
+
 
 
 | read number  	|the link      	|
