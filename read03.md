@@ -35,6 +35,8 @@ The **DOCTYPE** declaration tell the browser which version the page is using .
 
  
 
+ 
+
 All of these elements and tags are mentiond between these three main components of any **HTML** web :
 1. **header** : contains the main heading and navigation.
 2. **main** : contains articles which contains sections.
