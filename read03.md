@@ -31,6 +31,8 @@ The **DOCTYPE** declaration tell the browser which version the page is using .
    -<meta> .
    -<iframe> .
 
+ 
+
 All of these elements and tags are mentiond between these three main components of any **HTML** web :
 1. header : contains the main heading and navigation.
 2. main : contains articles which contains sections.
@@ -46,7 +48,9 @@ Firstly,we need to know some imformation like:
 #### 3.What they are trying to achieve.
 #### 4.What information they need.
 
-All of these information can be structured in a Site Map :
+## The structure stage :
+
+All of these information can be structured in a ***Site Map*** :
 
 ![Site Map](https://static-cse.canva.com/blob/12531/site-map-4.14af1db1.png)
 
