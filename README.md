@@ -28,6 +28,8 @@ We will talk about two control systems :
 |[read01]   	|  [read01](https://sjaljawhary.github.io/reading-notes/read01) 	|
 |  [read02] 	|  [read02](https://sjaljawhary.github.io/reading-notes/read02) 	|
 |    [read03]         |    [read03](https://sjaljawhary.github.io/reading-notes/read03)                                   |
+|  [read04]   |  [read04](https://sjaljawhary.github.io/reading-notes/read04)   |
+|   [read05]  |   [read05](https://sjaljawhary.github.io/reading-notes/read05)  |
 
 
 
