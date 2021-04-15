@@ -54,7 +54,16 @@ becomes false** and the **false becomes true** .
 
  
 
+## Loops
+1. **FOR** loop :when the ***number of times*** the code will run is **known** .
+2. **While** loop :when the ***number of times*** the code will run is **unknown** .
+3. **Do While** loop :run the code **also when the condition equals false** .
+
+![forloop](https://beginnersbook.com/wp-content/uploads/2017/08/for_loop_cpp.jpg)
 
 
-
+### Loop counters :
+1. **Initialization** : `var i=0;`
+2. **Condition** : `i<5`
+3. **Update** : `i++`
 
