@@ -61,7 +61,11 @@ becomes false** and the **false becomes true** .
 
 ![forloop](https://beginnersbook.com/wp-content/uploads/2017/08/for_loop_cpp.jpg)
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> 21a2df595337341d733465c96753c630f3fa7c80
 
 ### Loop counters :
 1. **Initialization** : `var i=0;`
