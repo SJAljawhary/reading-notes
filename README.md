@@ -32,6 +32,7 @@ We will talk about two control systems :
 |   [read05]  |   [read05](https://sjaljawhary.github.io/reading-notes/read05)  |
 |[read06]|[read06](https://sjaljawhary.github.io/reading-notes/read06)|
 |[read07]|[read07](https://sjaljawhary.github.io/reading-notes/read07)|
+|[read08]|[read08]()
 
 
 
