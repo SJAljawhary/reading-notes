@@ -33,6 +33,7 @@ We will talk about two control systems :
 |[read06]|[read06](https://sjaljawhary.github.io/reading-notes/read06)|
 |[read07]|[read07](https://sjaljawhary.github.io/reading-notes/read07)|
 |[read08]|[read08](https://sjaljawhary.github.io/reading-notes/read08)|
+|[read09]|[read09](https://sjaljawhary.github.io/reading-notes/read09)|
 
 
 
