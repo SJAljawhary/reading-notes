@@ -38,8 +38,8 @@ We will talk about two control systems :
 <<<<<<< HEAD
 
 ## Code 201 Reading Notes
-=======
->>>>>>> e08ff898f377a6bae581572a92fe1c7606aa3698
+
+
 
 
 
