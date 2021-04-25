@@ -1,5 +1,5 @@
 # Reading Notes
-## Code 102 Reading Notes
+
 We will talk about two control systems :
   1. **Markdown**. 
   2. **GIT** .
@@ -16,25 +16,24 @@ We will talk about two control systems :
 **“growth mindset”** on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
 
 
- ### The Table contains the links we talked about above :
+ ### The Table contains the links we talked about above and new subjects we will talk about during this course :
 
-
-
-
+ ## Code 102 Reading Notes
 
 
 
 | read number  	|the link      	|
 |---	|---	|
-|[read01]   	|  [read01](https://sjaljawhary.github.io/reading-notes/read01) 	|
-|  [read02] 	|  [read02](https://sjaljawhary.github.io/reading-notes/read02) 	|
-|    [read03]         |    [read03](https://sjaljawhary.github.io/reading-notes/read03)                                   |
-|  [read04]   |  [read04](https://sjaljawhary.github.io/reading-notes/read04)   |
-|   [read05]  |   [read05](https://sjaljawhary.github.io/reading-notes/read05)  |
-|[read06]|[read06](https://sjaljawhary.github.io/reading-notes/read06)|
-|[read07]|[read07](https://sjaljawhary.github.io/reading-notes/read07)|
-|[read08]|[read08](https://sjaljawhary.github.io/reading-notes/read08)|
-|[read09]|[read09](https://sjaljawhary.github.io/reading-notes/read09)|
+|[read01]   	|  [What is MarkDown](https://sjaljawhary.github.io/reading-notes/read01) 	|
+|  [read02] 	|  [What is Git](https://sjaljawhary.github.io/reading-notes/read02) 	|
+|    [read03]         |    [Design a website](https://sjaljawhary.github.io/reading-notes/read03)                                   |
+|  [read04]   |  [Writing a script for a web page](https://sjaljawhary.github.io/reading-notes/read04)   |
+|   [read05]  |   [Computers](https://sjaljawhary.github.io/reading-notes/read05)  |
+|[read06]|[Comparison Operators](https://sjaljawhary.github.io/reading-notes/read06)|
+|[read07]|[JavaScript](https://sjaljawhary.github.io/reading-notes/read07)|
+|[read08]|[Designing in CSS](https://sjaljawhary.github.io/reading-notes/read08)|
+|[read09]|[Text Editor](https://sjaljawhary.github.io/reading-notes/read09)|
+
 
 
 
@@ -42,6 +41,9 @@ We will talk about two control systems :
 
 
 
+| read number  	|the link      	|
+|---	|---	|
+|[class01]   	|  [Code 201 Reading Notes](https://sjaljawhary.github.io/reading-notes/class01) 	|
 
 
 
