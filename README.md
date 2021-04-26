@@ -41,6 +41,8 @@ We will talk about two control systems :
 | read number  	|the link      	|
 |---	|---	|
 |[class01]   	|  [Code 201 Reading Notes](https://sjaljawhary.github.io/reading-notes/class01) 	|
+|[class02]|[Basic of HTML,CSS and JS](https://sjaljawhary.github.io/reading-notes/class02)|
+|[class03]|[HTML Lists, CSS Boxes, JS Control Flow](https://sjaljawhary.github.io/reading-notes/class03)|
 
 
 
