@@ -41,3 +41,49 @@ The grid structure is used to help the designers to position items on a page :
 To include multiple CSS files in one page using :
 1. import .
 2. link.
+
+# Functions,methods and objects
+
+### what is a function ?
+If we want to group a series of statements together to do a specific task we can use functions :
+
+![function](https://i.stack.imgur.com/5XzX8.png)
+
+#### Declaring the function
+We can declare it by write it's name and then write the statment which we want to specify a task between the curly bruckets :
+
+`function sum(){document.write(num1+num2)};`
+
+#### Calling the function
+the function name  will call the function:
+`sum();`
+
+To get a single value like when we do a summation operation , we can return the value in a declared variable :
+`var sum = num1 + num2`
+`return sum;`
+Also we can return more than one value using an array:
+`var sum= num1 + num2`
+`var multiply= num1 * num2`
+`var results = [sum , multiply];`
+`return results;`
+
+#### Variable scope
+The location where we declare the variable will affect where it can be used within our code.
+When we create the variable in a spasific function we can use it only inside this function which this called **local variables** .
+To use this variable in other place not just in this function we should declare it outsite the finction , and here it's called **global variable**.
+
+**Global variables** use more memory because the browser has to remember them for as long as the web page using them is loaded. **Local variables** are only remembered during the period of time that a function is being executed.
+
+## Why pair program ?
+
+![pair programming](https://martinfowler.com/articles/on-pair-programming/driver_navigator.png) 
+
+1. Greater efficiency.
+2. Engaged collaboration.
+3. Learning from fellow students
+4. Social skills.
+5. Job interview readiness
+6.  Work environment readiness.
+
+
+
