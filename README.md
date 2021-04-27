@@ -43,6 +43,7 @@ We will talk about two control systems :
 |[class01]   	|  [Code 201 Reading Notes](https://sjaljawhary.github.io/reading-notes/class01) 	|
 |[class02]|[Basic of HTML,CSS and JS](https://sjaljawhary.github.io/reading-notes/class02)|
 |[class03]|[HTML Lists, CSS Boxes, JS Control Flow](https://sjaljawhary.github.io/reading-notes/class03)|
+|[class04]|[HTML Links, JS Functions, and Intro to CSS Layout](https://sjaljawhary.github.io/reading-notes/class04)|
 
 
 
