@@ -28,6 +28,8 @@ Google(opens in new window)
 ## A liquid layout
 To specify the width of each box so that the design will stretch to fit the size of the
 screen.
+
+
  
 ## Layout grids
 The grid structure is used to help the designers to position items on a page :
@@ -37,10 +39,59 @@ The grid structure is used to help the designers to position items on a page :
 * Creates a continuity between different pages which may use different designs.
 * Helps users predict where to find information on various pages.
 
+* Makes it easier to add new
+content to the site in a
+consistent way.
+
+* Helps people collaborate
+on the design of a site in a
+consistent way.
+
+### Possible Layouts:
+960 Pixel wide
+12 Column Grid
+
+![960 pixel wide](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhp53CqyONIh1bSExGaCHYhjbCSjEmOnWJg&usqp=CAU)
+
+Here each column has a margin set to 10 px, which creates a gap of 20 px between each column and 10 px to the left and right sides of the page.
+
+## CSS fameworks
+
+CSS framworks is very useful in providing the code for common tasks, such as creating layout grids, styling forms, and so on.
+
+
+* Advantges :
+1. Avoid the repeatedly writing code for the same tasks.
+2. Avoid browser bugs.
+
+* Disadvantges :
+1. The claa names in our HTML code is required  so that it's only control the presentation of the page not describe it's content.
+2. They often contain more code than we need for our particular web page .
+
+![css framework](https://groundworkcss.github.io/groundwork/images/layout-a.png)
+
+After the layout and the columns and spaces between them is ready now the only rules
+we needed to add are shown on
+this page.
+
+ The rules:
+* Control the font and the position of the text in the boxes.
+* Set the background colors for the boxes.
+* Set the height of the feature and article boxes.
+* Add a margin to the top and bottom of each box.
+
+
+
+
 ## Multiple style sheets
 To include multiple CSS files in one page using :
-1. import .
-2. link.
+1. import :  HTML page can link to one style sheet and that stylesheet can use the **@import**
+rule to import other style sheets.
+
+
+2. link : In HTML we can use a separate **link** between the head element for each style sheet.
+
+
 
 # Functions,methods and objects
 
