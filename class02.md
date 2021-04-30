@@ -67,6 +67,7 @@ The `dfn` element is used to indicate the defining instance of a new term.
 ## Author Details
 The `address` element is used to contain contact details for the author of the page.
 * Example :
+
 ```
 <address>
 <p><a href="mailto:homer@example.org">
@@ -74,15 +75,18 @@ homer@example.org</a></p>
 <p>742 Evergreen Terrace, Springfield.</p>
 </address>
 ```
+
 ## Changes to Content
 1. #### `del` and `ins`
 
 The `ins` element can be used to show content that has been inserted into a document, while
 the `del` element can show text that has been deleted from it.
 * Example :
+
 ```
 <p>It was the <del>worst</del> <ins>best</ins> idea she had ever had.</p>
 ```
+
 2. #### `s`
 The `s` element indicates something that is no longer accurate or relevant (but that
 should not be deleted).
@@ -113,19 +117,23 @@ Using the css we can style our page elements like:
 A CSS rule contains two parts: a **selector** and a **declaration**.
 See this example where `p` is the selector which indicate which element the rule applies to, and `font-family:Arial` is the declaration which indicate how the elements referred to in the selector should be styled:
 
+
 ```
 p {
 font-family: Arial;}
 ``` 
 
+
 The declaration is consists of two parts :
 1. *property*
 2. *value*
+
 
 ``` h1, h2, h3 {
 font-family: Arial;
 color: yellow;} 
 ```
+
 
 ### Using External CSS
 The `link` element can be used in an HTML document to tell the browser where to find the CSS
@@ -139,6 +147,7 @@ When building a site with more than one page, we should use an external CSS styl
 ### Using Internal CSS
 The CSS rules can be included within HTML page by placing them inside a `style` element, which usually sits inside the `head` element of the page.
 
+
 ```
 <style type="text/css">
 body {
@@ -148,6 +157,8 @@ h1 {
 color: rgb(255,255,255);}
 </style>
 ```
+
+
 ![css selectors](https://image.slidesharecdn.com/mark-csssyntaxselector-140213211343-phpapp01/95/mark-css-syntax-selector-3-638.jpg?cb=1392326713)
 
 Different types of selectors allow us to target our rules at different elements.
@@ -189,25 +200,36 @@ When declaring a variable in JavaScript,we do not need to specify what type of d
 
 ### Shorthand for creating variables
 1. Variables are declared and values assigned in the same statement:
+
+
 ```
 var price = 5;
 var quantity = 14;
 var total = price * quantity;
 ```
+
+
 2. Three variables are declared on the same line, then values assigned to each :
+
+
 ```
 var price, quantity, total ;
 price = 5;
 quanti ty = 14;
 total = price * quantity;
 ```
+
+
 3. Two variables are declared and assigned values on the same line. Then one is declared and assigned a value on the next line :
+
+
 ```
 var price
 var total
 5, quantity = 14;
 price * quantity;
 ```
+
 
 ### Rules for naming variables
 1. The name *must begin* with a **letter**, **dollar sign ($)**,or an **underscore (_)**, It must not start with a number.
@@ -235,12 +257,14 @@ The values in the array do not need to be the same data type, so we can store a 
 #### Values in arrays
 The list inside an array starts at zero (not one),which called **index**,which can be used to access specific items in the array.
 
+
 ``` 
 var col ors;
 colors= ['white ' ,
 'black ' ,
 ' custom'];
 ``` 
+
 here each index and it's value is shown like :
 |Index|value|
 |-----|-----|
@@ -249,14 +273,20 @@ here each index and it's value is shown like :
 |  2  |custom|
 
 To access the third item for example :
+
+
 ```
 var thirdItem ;
 thirdItem = colors[2];
 ``` 
+
 The number of items inside the array indicates it's length :
+
+
 ``` var numColors ;
 numColors =colors. length;
 ```
+
 
 ### Expressions
 There are two types of expressions:
@@ -276,33 +306,49 @@ They allow programmers to create a single value from one or more values.
 #### String operators
 Joining together two or more strings to create one
 new string **concatenation** :
+
+
 ```
 var firstName = 'Alma ' ;
 var lastName = ' John' ;
 var full Name = firstName + lastName;
 ```
+
+
 #### Mixing strings and numbers together
 * Example(1) :
+
+
 ```
 var cost l = '5';
 var cost2 = '6 ' ;
 var total = costl + cost2 ;
 The result here is : '56'
 ```
+
+
 * Example(2) :
+
+
 ```
 var number = 15;
 var street= 'John Road';
 var add = number + street;
 The result here is : '15John'
 ```
+
+
 * Example(3):
+
+
 ```
 var score= ' seven ';
 var score2 = ' nine';
 var total = score * score2;
 The result here is **NAN**
 ```
+
+
 ## Decisions and loops
 ![decision](https://d3n817fwly711g.cloudfront.net/blog/wp-content/uploads/2011/09/Basic-Flowchart-Template-with-one-decision-.png)
 
@@ -327,13 +373,18 @@ Use them to evaluate the condition :
 ## IF statement
 To check a condition , if it's true , the statement in the code block will executed.
 
+
 ```
 if (score >= 50){
     congratulate();
 }
 ``` 
+
+
 ## If..else statement
 To check a condition , if it's true the first code block is executed, and if it's false the code in the second block is executed.
+
+
 ```
 if (score >= 50){
     congratulate();
