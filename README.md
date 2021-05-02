@@ -45,6 +45,7 @@ We will talk about two control systems :
 |[class03]|[HTML Lists, CSS Boxes, JS Control Flow](https://sjaljawhary.github.io/reading-notes/class03)|
 |[class04]|[HTML Links, JS Functions, and Intro to CSS Layout](https://sjaljawhary.github.io/reading-notes/class04)|
 |[class05]|[Images, Color,Text]( https://sjaljawhary.github.io/reading-notes/class05)|
+|[class06]|[JS Object Literals; The DOM](https://sjaljawhary.github.io/reading-notes/class06)|
 
 
 
