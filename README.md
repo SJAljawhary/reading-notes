@@ -40,14 +40,15 @@ We will talk about two control systems :
 
 | read number  	|the link      	|
 |---	|---	|
-|[class01]   	|  [Code 201 Reading Notes](https://sjaljawhary.github.io/reading-notes/class01) 	|
-|[class02]|[Basic of HTML,CSS and JS](https://sjaljawhary.github.io/reading-notes/class02)|
-|[class03]|[HTML Lists, CSS Boxes, JS Control Flow](https://sjaljawhary.github.io/reading-notes/class03)|
-|[class04]|[HTML Links, JS Functions, and Intro to CSS Layout](https://sjaljawhary.github.io/reading-notes/class04)|
-|[class05]|[Images, Color,Text]( https://sjaljawhary.github.io/reading-notes/class05)|
-|[class06]|[JS Object Literals; The DOM](https://sjaljawhary.github.io/reading-notes/class06)|
-
-
+|[class01]   	|  [Code 201 Reading Notes](class01.md) 	|
+|[class02]|[Basic of HTML,CSS and JS](class02.md)|
+|[class03]|[HTML Lists, CSS Boxes, JS Control Flow](class03.md)|
+|[class04]|[HTML Links,JS Functions,and Intro to CSS Layout](class04.md)|
+|[class05]|[Images, Color,Text](class05.md)|
+|[class06]|[JS Object Literals; The DOM](class06.md)|
+|[class07]|[JS Object Literals; The DOM](class07.md)|
+|[class08]|[JS Object Literals; The DOM](class08.md)|
+|[class09]|[Forms and JS Events](class09.md)|
 
 
 
