@@ -191,6 +191,55 @@ model of something from the real world using data.
 An object model is a group of objects, each of which represent related things from the real world.
 Together they form a model of something larger.
 
+#### Three groups of bulid-in objects
+1. **Browser object model** : creates a model of the browser tab or window.
+![browser](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-5-638.jpg?cb=1556875428)
+
+![properties](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-10-638.jpg?cb=1556875428)
+
+
+2. **Document object model** : creates a model of the current web page.
+![document](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+
+![properties and methods](https://image.slidesharecdn.com/3-190411103558/95/31-javascript-objectsdom-42-638.jpg?cb=1554980657)
+
+![differences](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-4-638.jpg?cb=1556875428)
+
+### Global javascript model
+The global model don't form a single model , they are a group of individual objects that relate to different parts of the javascript language.
+The name of them usually starts with a capital letter : **Number**,**date**,etc.
+
+* String object
+Whenever we have a value that is a string, we can use the properties and methods of the String object on that value:
+![string mothods](https://image.slidesharecdn.com/modulev-170204094100/95/diwe-programming-with-javascript-61-638.jpg?cb=1486206110)
+
+* Data types Revisited
+In JavaScript there are six data types:
+Five of them are described as simple (or primitive) data types.
+The sixth is the object (and is referred to as a complex data type).
+
+- simple data types :
+1. String
+2. Number
+3. Boolean
+4. Undefined (a variable that has been declared, but no value has been assigned to it yet)
+5. Null (a variable with no value - it may have had one at some point, but no longer has a value).
+
+- complex data type :
+6. 0bject : arrays and functions are considered types of objects.
+
+* Number object & Math object
+Whenever we have a value that is a number,we can use the methods and properties of the Number object on it.
+![math methods](https://1.bp.blogspot.com/-F3Wq2Sw3_EY/W7kCxl5DwxI/AAAAAAAAEto/HmN5atQbtsM3qzjX-LaPzOOvs35BOamtwCLcBGAs/s1600/Java%2BScript%2BMath%2BObjects.jpg)
+
+* Date object
+Once we have created a Date object, the following methods let us set and retrieve the time and date that it represents.
+![date methods](https://media.geeksforgeeks.org/wp-content/uploads/util.date-class-methods.png)
+
+
+
+
+
 
 
 
