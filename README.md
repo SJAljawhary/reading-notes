@@ -50,6 +50,7 @@ We will talk about two control systems :
 |[class08]|[JS Object Literals; The DOM](class08.md)|
 |[class09]|[Forms and JS Events](class09.md)|
 |[class010]|[JS Debugging](class010.md)|
+|[class11]|[Assorted Topics](class11.md)|
 
 
 
