@@ -197,6 +197,10 @@ Together they form a model of something larger.
 
 ![properties](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-10-638.jpg?cb=1556875428)
 
+The window object represents the current browser window or tab. It is the topmost object
+in the Browser Object Model, and it contains other objects that tell us about the browser.
+
+
 
 2. **Document object model** : creates a model of the current web page.
 ![document](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
@@ -204,6 +208,8 @@ Together they form a model of something larger.
 ![properties and methods](https://image.slidesharecdn.com/3-190411103558/95/31-javascript-objectsdom-42-638.jpg?cb=1554980657)
 
 ![differences](https://image.slidesharecdn.com/013browserobjectmodel-190503092234/95/javascript-chapter-13-browser-object-modelbom-4-638.jpg?cb=1556875428)
+
+The topmost object in the Document Object Model (or DOM) is the document object. It represents the web page loaded into the current browser window or tab. 
 
 ### Global javascript model
 The global model don't form a single model , they are a group of individual objects that relate to different parts of the javascript language.
