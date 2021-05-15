@@ -133,4 +133,126 @@ how far your script has executed.
 They let you pause execution and inspect the va lues
 that are stored in variables.
 
+### Browser DEV Tools & Javascript Console
+
+The JavaScript console will tell us when there is a problem with a script,where to look for the problem, and what kind of issue it seems to be.
+The JavaScript console is just one of severa l developer tools that are found in all modern browsers.
+
+When we are debugging errors, it can help if we look at the error in more than one browser as they can show us different error messages.
+If we open the errors . html file from t he sample code in our browser, and then open the console, we will see an error is displayed.
+
+The console is exsist in many browsers such us **Chrome** , **Firefox** , **Internet Explorer**, we will talk about how to use it to look at errors inside them.
+
+##### How to look at errors in chrome
+The console will show us when there is an error in our JavaScript. It also displays the line where it became a problem for the interpreter.
+##### Typing in the console in chrome
+We can also just type code into the console and it will show us a result.
+
+### Writing from script to the console
+Browsers that have a console have a **console object**, which has several methods that our script can use to display data in the console.
+The object is documented in the **Console API**.
+
+### Logging data to the console
+There are several uses of the console . log () method:
+1. to indicate the script is running.
+2. When input loses focus, write value to console.
+- When the user submits the form, four values are displayed:
+3. That the user clicked submit.
+
+                ```
+                $(' #calculator').on('submit', function(e)
+                e.preventDefault();
+                console.log('Clicked submit . . . ') ;
+                ```
+
+
+4. The value in the width input.
+
+                ```
+                width = $('#width').val();
+                console.log('Width ' +width} ;
+                ```
+
+
+5. The value in the height input.
+
+                 ```
+                 height= $('#height').val();
+                 console.log( 'Height ', height);
+
+                 ```
+
+6. The value of the area variable.
+
+                 ```
+                area = width * height;
+                console. log(area);
+                
+                ```
+
+### More console methods 
+![console methods](https://blog.kentonvizdos.com/content/images/2020/06/carbon-2.png)
+
+To differentiate between the types of messages we write to the console, we can use three different methods. They use variou colors and icons to distinguish them:
+![three methods](https://media.geeksforgeeks.org/wp-content/uploads/20200614095921/console-sidebar.png)
+
+##### Grouping messages
+If we want to write a set of related data to the console, we can use the **console. group () method** to group the messages together.We can then expand and contract the results.
+
+When we have finished writing out the results for the group, to indicate the end of the group **the console .groupEnd () method** is used.
+
+##### Writing tabular data
+In browsers that support it, the **console. table () method** lets
+us output a table showing:
+- objects.
+- arrays that contain other objects or arrays.
+
+##### Writing on a condition
+Using the **console. assert() method**,we can test if a condition is met, and write to the console only if the expression
+evaluates to false.
+
+### Breakpoints
+We can pause the execution of a script on any line using breakpoints. Then we can check the values stored in variables at that point in time.
+
+![breakpoints](https://d3of8ou1mslcoj.cloudfront.net/content/uploads/2012/05/javascript_breakpoints1.png)
+
+###### Stepping through code 
+If we set multiple breakpoints, we can step through them one-by-one to see where values change and a problem might occur.
+
+###### Conditional breakpoints
+We can indicate that a breakpoint should be triggered only if a condition that we specify is met. The condition can use existing variables.
+
+![conditional breakpoint](https://i2.wp.com/dailydotnettips.com/wp-content/uploads/2010/12/image_thumb12.png?w=578&ssl=1)
+
+###### Debugger keyword
+We can create a breakpoint in our code using just the debugger keyword. When the developer tools are open, this will automatically create a breakpoint.
+
+### Handling Exceptions
+If we know our code might fail, use **try**, **catch**, and **finally**.
+Each one is given its own code block :
+- *try* : Try to execute this code .
+- *catch* (exception) : If there is an exception, run this code .
+- *finally* : This always gets executed .
+
+### Throw error for NaN
+If we try to use a string in a mathematical operation (other than in addition), we do not get an error, we get a special value called **NaN (not a number)**.
+
+### Debugging Tips
+Here are a selection of practical tips that we can try to use when debugging our scripts:
+1. *ANOTHER BROWSER* : Some problems are browser specific.
+Try the code in another browser to see which ones are causing a problem.
+2. *ADD NUMBERS* : Write numbers to the console so we can see which the items get logged. It shows how far our  code runs before errors stop it.
+3. *STRIP IT BACK* : Remove parts of code, and strip it down to the minimum we need.
+4. *EXPLAINING THE CODE* : Programmers often report finding a solution to a problem while explaining the code to someone else.
+5. *SEARCH* : Stack Overflow is a Q+A site for programmers.
+Or use a traditional search engine such as Google, Bing, or DuckDuckGo.
+6. *CODE PLAYGROUNDS*.
+7. *VALIDATION TOOLS* : There are a number of on line validation tools that can help us try to find errors in our code:
+- **JAVASCRIPT** :
+`http://www.jslint.com`
+`http://www.jshint .com`
+- **JSON** :
+`http:// www.jsonlint.com`
+- **JQUERY** :
+There is a jQuery debugger plugin available for Chrome which can be found in the Chrome web store.
 
