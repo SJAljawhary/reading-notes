@@ -287,7 +287,28 @@ Each time the loop runs, the script checks that the counter is less than the tot
                   ```
 
 ![example](img/Nodelist.png) 
-              
+
+### Video and Audio APIs
+The `<video>` and `<audio>` elements allow us to embed video and audio into web pages. 
+
+```
+
+<video controls>
+  <source src="rabbit320.mp4" type="video/mp4">
+  <source src="rabbit320.webm" type="video/webm">
+  <p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
+</video>
+
+```
+
+ The **HTMLMediaElement API** provides features to allow you to control video and audio players programmatically — for example HTMLMediaElement.play(), HTMLMediaElement.pause(), etc. This interface is available to both `<audio>` and `<video>` elements, as the features you'll want to implement are nearly identical. 
+
+ ##### Playing and pausing the video
+ Let's implement probably the most important control — the play/pause button.
+ 
+
+
+
 
 
 
