@@ -246,6 +246,36 @@ Once we have created a Date object, the following methods let us set and retriev
 ### Domain Modeling
 *Domain modeling* is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
 
+A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
+
+##### Define a constructor and initialize properties
+- To define the same properties between many objects, we'll want to use a **constructor function**,the constructor function is defined using a **function expression**.
+- When the function is called, the data inside the parameters are stored inside the properties respectively.
+- Storing data within properties ensures any newly created object can access that data later.
+- After the constructor function definition, the objects are instantiated with the new keyword and their properties are initialized by calling the  constructor function. After being instantiated and initialized, these objects are stored inside the  variables.
+- Finally, the two newly created objects are logged to the console.
+
+**This is object-oriented programming in JavaScript at its most fundamental level:**
+
+1. The new keyword instantiates (i.e. creates) an object.
+2. The constructor function initializes properties inside that object using the this variable.
+3. The object is stored in a variable for later use.
+
+### Generate random numbers
+To model the random nature of user behavior, we'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a **Math.random() function** for just this sort of occasion.
+
+```
+Random = function(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+```
+
+
+
+
+
+
+
 
 
 
