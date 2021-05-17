@@ -243,6 +243,10 @@ Once we have created a Date object, the following methods let us set and retriev
 ![date methods](https://media.geeksforgeeks.org/wp-content/uploads/util.date-class-methods.png)
 
 
+### Domain Modeling
+*Domain modeling* is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+
+
 
 
 
