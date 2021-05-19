@@ -53,6 +53,8 @@ We will talk about two control systems :
 |[class11]|[Assorted Topics](class11.md)|
 |[class12]|[Docs for the HTML `<canvas>` Element & Chart.js](class12.md)|
 |[class13]|[Local Storage](class13.md)|
+|[class14a]|[CSS Transforms,Transitions,and Animations](class14a.md)|
+|[class14b]|[What Google Learned About Teams](class14b.md)|
 
 
 
