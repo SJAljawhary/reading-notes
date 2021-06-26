@@ -56,7 +56,10 @@ We will talk about two control systems :
 |[class14a]|[CSS Transforms,Transitions,and Animations](class14a.md)|
 |[class14b]|[What Google Learned About Teams](class14b.md)|
 
-
+## Code 301 Reading Notes
+| read number  	|the link      	|
+|---	|---	|
+|[301class01]|[ Component-Based Architecture](301class01.md)|
 
 
 
