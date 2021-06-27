@@ -57,9 +57,10 @@ We will talk about two control systems :
 |[class14b]|[What Google Learned About Teams](class14b.md)|
 
 ## Code 301 Reading Notes
-| read number  	|the link      	|
-|---	|---	|
-|[301class01]|[ Component-Based Architecture](301class01.md)|
+| read number|the link|
+|---|---|
+|[301class01]|[Component Based Architecture](301class01.md)|
+|[301class02]|[ State and Props](301class02.md)|
 
 
 
