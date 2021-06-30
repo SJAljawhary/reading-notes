@@ -64,6 +64,7 @@ We will talk about two control systems :
 |[301class02]|[State and Props](301class02.md)|
 |[301class03]|[Passing Functions as Props](301class03.md)|
 |[301class04]|[React and Forms](301class04.md)|
+|[301class05]|[Thinking in React](301class05.md)|
 
 
 
