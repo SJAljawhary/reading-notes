@@ -60,8 +60,9 @@ We will talk about two control systems :
 | read number|the link|
 |---|---|
 |[301class01]|[Component Based Architecture](301class01.md)|
-|[301class02]|[ State and Props](301class02.md)|
-|[301class03]|[ Passing Functions as Props](301class03.md)
+|[301class02]|[State and Props](301class02.md)|
+|[301class03]|[Passing Functions as Props](301class03.md)|
+|[301class04]|[React and Forms](301class04.md)|
 
 
 
