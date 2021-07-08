@@ -70,8 +70,7 @@ We will talk about two control systems :
 |[301class08]|[APIs](301class08.md)|
 |[301class09]|[FUNCTIONAL PROGRAMMING](301class09.md)|
 |[301class10]|[In memory storage](301class10.md)|
-
-
+|[301class11]|[Authentication](301class11.md)|
 
 
 
