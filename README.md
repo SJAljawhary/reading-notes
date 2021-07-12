@@ -72,6 +72,7 @@ We will talk about two control systems :
 |[301class10]|[In memory storage](301class10.md)|
 |[301class11]|[Authentication](301class11.md)|
 |[301class12]|[Mongo and Mongoose](301class12.md)|
+|[301class13]|[CRUD](301class13.md)|
 
 
 
