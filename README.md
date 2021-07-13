@@ -73,6 +73,7 @@ We will talk about two control systems :
 |[301class11]|[Authentication](301class11.md)|
 |[301class12]|[Mongo and Mongoose](301class12.md)|
 |[301class13]|[CRUD](301class13.md)|
+|[301class14]|[Project Ideas](301class14.md)|
 
 
 
